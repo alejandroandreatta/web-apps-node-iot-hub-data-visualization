@@ -41,7 +41,7 @@ $(document).ready(function () {
         id: 'Temperature',
         type: 'linear',
         scaleLabel: {
-          labelString: 'Temperature(&#176;C)',
+          labelString: 'Temperature(°C)',
           display: true
         },
         position: 'left',
